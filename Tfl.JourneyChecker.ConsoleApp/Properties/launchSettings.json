@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Tfl.JourneyChecker.ConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "A22"
+    }
+  }
+}
